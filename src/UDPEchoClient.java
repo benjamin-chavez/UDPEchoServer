@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 
 public class UDPEchoClient {
-  public final static int PORT = 7;
+  public final static int PORT = 5050;
 
   public static void main(String[] args) {
 

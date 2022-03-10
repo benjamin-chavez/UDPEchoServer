@@ -54,7 +54,7 @@ abstract class UDPServer implements Runnable {
 
 public class UDPEchoServer extends UDPServer {
 
-  public final static int DEFAULT_PORT = 7;
+  public final static int DEFAULT_PORT = 5050;
 
   public UDPEchoServer() {
     super(DEFAULT_PORT);
