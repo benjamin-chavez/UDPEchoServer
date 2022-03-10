@@ -9,5 +9,5 @@ $ chmod 700 ./runServer.sh
 
 Run Program:
 ```
-$ ./runAsyncServer.sh
+$ ./runServer.sh
 ```
